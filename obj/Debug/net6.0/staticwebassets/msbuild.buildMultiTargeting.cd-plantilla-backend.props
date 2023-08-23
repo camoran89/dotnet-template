@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cd-plantilla-backend.props" />
+</Project>
